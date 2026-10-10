@@ -1,5 +1,5 @@
 package ar.edu.unahur.obj2.peluqueria;
 
-public class CorteDeCabello {
+public class SalonDeBelleza {
 
 }

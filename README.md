@@ -13,8 +13,6 @@
 * **COMISIÓN**: 03
 * **DNI**: 45001677
 
-> * Manuel Sadosky fue el impulsor de la llegada de Clementina, la primera computadora científica de Latinoamérica, y fundador en 1963 de la primera carrera de Computador Científico en la UBA.
-
 ---
 
 ## 📝 Consideraciones Iniciales y Criterio de evaluación
