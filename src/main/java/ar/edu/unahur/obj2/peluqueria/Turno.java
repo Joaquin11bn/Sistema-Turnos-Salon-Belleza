@@ -1,5 +1,7 @@
 
 package ar.edu.unahur.obj2.peluqueria;
+import ar.edu.unahur.obj2.peluqueria.servicios.Servicio;
+
 
 
 
@@ -7,11 +9,11 @@ public class Turno {
 
     private final Cliente cliente;
     private final Servicio servicio;
-    private final int sesiones;
-    private final double importeTotal;
+    private final Integer sesiones;
+    private final Double importeTotal;
     private final String comprobante;
 
-    public Turno(Cliente cliente, Servicio servicio, int sesiones, double importeTotal, String comprobante) {
+    public Turno(Cliente cliente, Servicio servicio, Integer sesiones, Double importeTotal, String comprobante) {
         this.cliente = cliente;
         this.servicio = servicio;
         this.sesiones = sesiones;
@@ -27,11 +29,11 @@ public class Turno {
         return servicio;
     }
 
-    public int getSesiones() {
+    public Integer getSesiones() {
         return sesiones;
     }
 
-    public double getImporteTotal() {
+    public Double getImporteTotal() {
         return importeTotal;
     }
 

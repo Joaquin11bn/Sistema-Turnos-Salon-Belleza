@@ -9,7 +9,7 @@
 
 > Borrar los datos de ejemplo y poner los datos reales
 
-* **APELLIDO, NOMBRE**: NOGUERA,JOAQUIN
+* **APELLIDO, NOMBRE**: NOGUERA, JOAQUIN
 * **COMISIÓN**: 03
 * **DNI**: 45001677
 

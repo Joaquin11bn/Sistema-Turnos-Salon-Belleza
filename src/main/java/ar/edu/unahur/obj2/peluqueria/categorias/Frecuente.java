@@ -6,6 +6,6 @@ public class Frecuente implements Categoria {
 
     @Override 
     public Double descuento(Double importe) {
-        return importe * porcentajeDescuento;
+        return importe * (1 - porcentajeDescuento);
     }
 }

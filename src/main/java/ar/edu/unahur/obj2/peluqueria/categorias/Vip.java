@@ -9,7 +9,7 @@ public class Vip implements Categoria {
 
     @Override 
     public Double descuento(Double importe) {
-        return importe * porcentajeDescuento;
+        return importe * (1 - porcentajeDescuento);
     }
     
     public void esClientePrevio(Cliente cliente) {

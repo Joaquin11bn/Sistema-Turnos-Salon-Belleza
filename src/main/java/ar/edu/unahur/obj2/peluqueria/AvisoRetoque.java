@@ -2,7 +2,6 @@ package ar.edu.unahur.obj2.peluqueria;
 
 import java.time.LocalDate;
 
-/** Reificación del aviso de retoque que deja registrado el servicio de Coloración. */
 public class AvisoRetoque {
 
     private final Turno turno;

@@ -6,7 +6,7 @@ import java.util.List;
 import ar.edu.unahur.obj2.peluqueria.categorias.Categoria;
 import ar.edu.unahur.obj2.peluqueria.exceptions.ClienteSinTurnosException;
 
-public abstract class Cliente {
+public class Cliente {
 
     private final String nombre;
     private Categoria categoria;
